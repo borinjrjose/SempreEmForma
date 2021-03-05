@@ -1,0 +1,14 @@
+modelo\Monitor.class
+modelo\Pode_Lecionar.class
+modelo\SalaSquash.class
+modelo\Sala.class
+modelo\Experiencia_Proficional.class
+modelo\Aparelho.class
+modelo\SalaDeAula.class
+modelo\Socio.class
+dao\FabricaConexao.class
+teste\Teste.class
+modelo\Reserva.class
+modelo\Aula.class
+modelo\SalaComAparelhos.class
+modelo\Matricula.class
